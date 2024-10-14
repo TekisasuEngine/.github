@@ -6,7 +6,7 @@
 
 ## A free and open source gaming engine rebooted
 
-**[Tekisasu Engine](https://dev.tekisasu.com) is a feature-rich, 
+[Tekisasu Engine](https://dev.tekisasu.com) is a feature-rich, 
 multi-platform, open-source game engine capable of running 2D
 and 3D projects on a number of different platforms.
 
