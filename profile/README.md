@@ -21,10 +21,16 @@ no public builds available yet.
 
 ## Repositories
 
+- [tekisasu](https://github.com/TekisasuEngine/tekisasu)
+- [tekisasu-nir-static](https://github.com/TekisasuEngine/tekisasu-nir-static)
+- [tekisasu-angle-static](https://github.com/TekisasuEngine/tekisasu-angle-static)
+- [tekisasu-mono-builds](https://github.com/TekisasuEngine/tekisasu-mono-builds)
+- [tekisasu-cpp](https://github.com/TekisasuEngine/tekisasu-cpp)
 - [tekisasu-docs](https://github.com/TekisasuEngine/tekisasu-docs)
 - [build-containers](https://github.com/TekisasuEngine/build-containers)
 - [tekisasu-build-scripts](https://github.com/TekisasuEngine/tekisasu-build-scripts)
 - [osxcross](https://github.com/TekisasuEngine/osxcross)
+- [cctools-port](https://github.com/TekisasuEngine/cctools-port)
 - [buildroot](https://github.com/TekisasuEngine/buildroot)
 - [pbzx](https://github.com/TekisasuEngine/pbzx)
 
