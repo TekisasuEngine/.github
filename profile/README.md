@@ -1,14 +1,14 @@
 # Tekisasu Engine
 
 <p align="center">
-    <img src="tekisasuengine-logo.png" width="600" alt="Tekisasu Engine logo">
+    <img src="logo.png" alt="Tekisasu Engine logo">
 </p>
 
 ## A free and open source gaming engine rebooted
 
 [Tekisasu Engine](https://dev.tekisasu.com) is a feature-rich, 
-multi-platform, open-source game engine capable of running 2D
-and 3D projects on a number of different platforms.
+multi-platform, open-source game engine capable of running
+2D+3D projects on a number of different platforms.
 
 This project (except for the Tekisasu logo assets which are the
 exclusive property of Tekisasu) are licensed under the
@@ -41,9 +41,6 @@ developed by Tekisasu. While we will make the releases available
 to the public, it is not meant for public use.
 
 If you're looking for an excellent game development community, 
-be sure to check out the new [Blazium](https://blazium.app/) engine community, of which
-this project will follow with currated soft forks.  Any changes
-made to Blazium will inevitably flow back into Tekisasu Engine,
-so if you would like to contribute, please contribute there.
+be sure to check out the new [Blazium](https://blazium.app/) 
+engine community and/or the [Godot](https://godotengine.org/) community.
 
-Follow here for more information: [Blazium on GitHub](https://github.com/blazium-engine/)
