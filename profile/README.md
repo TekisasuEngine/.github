@@ -4,6 +4,8 @@
     <img src="logo.png" alt="Tekisasu Engine logo">
 </p>
 
+Maintained by Tekisasu.
+
 ## A free and open source gaming engine rebooted
 
 [Tekisasu Engine](https://dev.tekisasu.com) is a feature-rich, 
