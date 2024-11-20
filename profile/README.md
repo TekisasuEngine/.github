@@ -4,7 +4,9 @@
     <img src="logo.png" alt="Tekisasu Engine logo">
 </p>
 
-Maintained by Tekisasu.
+<p align="center">
+    <img src="gui.png" alt="Tekisasu Engine screenshot">
+</p>
 
 ## A free and open source gaming engine rebooted
 
@@ -15,6 +17,16 @@ multi-platform, open-source game engine capable of running
 This project (except for the Tekisasu logo assets which are the
 exclusive property of Tekisasu) are licensed under the
 Expat/MIT license, except where otherwise indicated.
+
+Tekisasu maintains full builds and toolchains for every
+video game we work on.  This ensures that we are not tied
+to the whims of a closed source commercial thirdparty
+offering or open source bad actors.  
+
+Tekisasu Engine is purpose built to facilitate and support
+development of our video games, but we share all of our
+modifications in base anyone would like to cherrypick them
+for their own uses. 
 
 ## Project Status
 
@@ -39,8 +51,9 @@ no public builds available yet.
 ## Who is this for? Where can I join the Tekisasu community?
 
 Tekisasu Engine is primarily developed for video games being
-developed by Tekisasu. While we will make the releases available
-to the public, it is not meant for public use.
+developed by Tekisasu.  We do NOT envision Tekisasu Engine to
+be a community project.  While we will make the releases
+available to the public, it is not meant for public use.
 
 If you're looking for an excellent game development community, 
 be sure to check out the new [Blazium](https://blazium.app/) 
