@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <img src="gui.png" alt="Tekisasu Engine screenshot">
+    <img src="screenshot.jpg" alt="Tekisasu Engine screenshot">
 </p>
 
 ## A free and open source gaming engine rebooted
