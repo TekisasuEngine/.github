@@ -12,7 +12,7 @@
 
 [Tekisasu Engine](https://dev.tekisasu.com) is a feature-rich, 
 multi-platform, open-source game engine capable of running
-2D+3D projects on a number of different platforms.
+2D+3D projects on Windows, macOS, BSD and Linux.
 
 This project (except for the Tekisasu logo assets which are the
 exclusive property of Tekisasu) are licensed under the
@@ -30,8 +30,7 @@ for their own uses.
 
 ## Project Status
 
-The fork of upstream software is still in progress.  There are
-no public builds available yet.
+Project is largely frozen on development tools while the game Poncho Poncho Land resumes development.  Quality of life patches and bugfixes may be periodically released.
 
 ## Repositories
 
@@ -55,7 +54,10 @@ developed by Tekisasu.  We do NOT envision Tekisasu Engine to
 be a community project.  While we will make the releases
 available to the public, it is not meant for public use.
 
+Warning: Projects created in Tekisasu Engine cannot be opened
+in Godot/Blazium/Redot, nor vice versa.  
+
 If you're looking for an excellent game development community, 
 be sure to check out the new [Blazium](https://blazium.app/) 
-engine community and/or the [Godot](https://godotengine.org/) community.
+engine community and/or the legacy [Godot](https://godotengine.org/) community.
 
