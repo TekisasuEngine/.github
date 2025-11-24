@@ -59,5 +59,5 @@ in Godot/Blazium/Redot, nor vice versa.
 
 If you're looking for an excellent game development community, 
 be sure to check out the new [Blazium](https://blazium.app/) 
-engine community and/or the legacy [Godot](https://godotengine.org/) community.
+engine community or [Godot](https://godotengine.org/) community.
 
