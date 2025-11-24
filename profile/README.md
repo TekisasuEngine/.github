@@ -8,7 +8,7 @@
     <img src="screenshot.jpg" alt="Tekisasu Engine screenshot">
 </p>
 
-## A free and open source gaming engine rebooted
+## A free and open source gaming engine
 
 [Tekisasu Engine](https://dev.tekisasu.com) is a feature-rich, 
 multi-platform, open-source game engine capable of running
